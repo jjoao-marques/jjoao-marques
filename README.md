@@ -1,4 +1,4 @@
-### Olá! Sou o João Marques!
+### Olá! Eu sou o João Marques!
 
 - 🔛 Hoje trabalho como Assistente de Service Desk...
 - 📚 Estudando <i>JAVA, SpringBoot, TypeScript, Angular</i>
