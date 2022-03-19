@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Marques!
 
-- 🔛 Hoje trabalho como Assistente de Service Desk...
-- 📚 Estudando <i>JAVA, SpringBoot, TypeScript, Angular</i>
+- 🔛 Java Developer...
+- 📚 Estudando <i>JAVA, SpringBoot, TypeScript, Angular, VueJS</i>
 
 <div align="center">
   <a href="https://github.com/jjoao-marques">
