@@ -1,7 +1,8 @@
 ### Olá! Eu sou o João Marques!
 
 - 🔛 Java Developer...
-- 📚 Estudando <i>JAVA, SpringBoot, TypeScript, Angular, VueJS</i>
+- 📚 Atuo com as seguintes técnologias <i>JAVA, SpringBoot, Java Script, TypeScript, Angular, Ionic</i>
+- Estudando Dart + Flutter...
 
 <div align="center">
   <a href="https://github.com/jjoao-marques">
